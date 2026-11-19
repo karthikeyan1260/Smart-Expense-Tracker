@@ -1,0 +1,42 @@
+[
+    {
+        "id": "4af873dc",
+        "type": "Income",
+        "amount": 350000.0,
+        "category": "Salary",
+        "description": "Salary Has been Credited to your Account.",
+        "date": "2026-11-20"
+    },
+    {
+        "id": "725860c9",
+        "type": "Expense",
+        "amount": 12000.0,
+        "category": "Rent & Bills",
+        "description": "Rent Has been Paid to House owner.",
+        "date": "2026-11-05"
+    },
+    {
+        "id": "d7e83593",
+        "type": "Expense",
+        "amount": 6000.0,
+        "category": "Food",
+        "description": "Food Account Has been Paid to My Friend.",
+        "date": "2026-11-10"
+    },
+    {
+        "id": "fe4d5bbb",
+        "type": "Income",
+        "amount": 250000.0,
+        "category": "Salary",
+        "description": "Salary Has Been Credited to your Account",
+        "date": "2026-02-03"
+    },
+    {
+        "id": "44fb4be1",
+        "type": "Expense",
+        "amount": 250.5,
+        "category": "Food",
+        "description": "Lunch testing",
+        "date": "2023-10-27"
+    }
+]

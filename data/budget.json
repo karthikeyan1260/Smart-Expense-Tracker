@@ -1,0 +1,13 @@
+{
+    "salary": 300000.0,
+    "allocations": {
+        "Rent & Bills": 30.0,
+        "Food": 15.0,
+        "Travel": 10.0,
+        "Savings": 20.0,
+        "Emergency Fund": 10.0,
+        "Shopping": 5.0,
+        "Entertainment": 5.0,
+        "Other Expenses": 5.0
+    }
+}

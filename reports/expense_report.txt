@@ -1,0 +1,12 @@
+SMART EXPENSE TRACKER REPORT
+=============================================
+Generated: 2026-11-20 01:49:09
+Total Income: ₹600,000.00
+Total Expenses: ₹18,000.00
+Available Balance: ₹582,000.00
+=============================================
+
+ID: 4af873dc | 2026-11-20 | Income | Salary | ₹350,000.00 | Salary Has been Credited to your Account.
+ID: d7e83593 | 2026-11-10 | Expense | Food | ₹6,000.00 | Food Account Has been Paid to My Friend.
+ID: 725860c9 | 2026-11-05 | Expense | Rent & Bills | ₹12,000.00 | Rent Has been Paid to House owner.
+ID: fe4d5bbb | 2026-02-03 | Income | Salary | ₹250,000.00 | Salary Has Been Credited to your Account
